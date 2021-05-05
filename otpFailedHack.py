@@ -19,7 +19,7 @@ print(Key_stream)
 print(cipher)
 print(xor_bytes(Key_stream, cipher))
 
-# done by enemy trying to break the cypher
+# done by enemy trying to break the cipher
 print(cipher)
 message = "No attack"  # enemy input
 message = message.encode()
